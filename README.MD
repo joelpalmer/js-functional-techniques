@@ -13,10 +13,10 @@ I may create a YouTube video series.
 For now, it is a brain dump.
 </p>
 <p>
-I will provide the occasional tests. I don't plan to clutter things up with a bunch of console logs. So, I recommend something like [Quokka](https://quokkajs.com/) which is currently available for VS Code, Atom and WebStorm. Other than that, all you need is node. 
+I will provide the occasional tests. I don't plan to clutter things up with a bunch of console logs. So, I recommend something like <a href='https://quokkajs.com/'>Quokka</a> which is currently available for VS Code, Atom and WebStorm. Other than that, all you need is node. 
 </p>
 <p>
-There are no dependencies as of now. I may introduce [Ramda](https://ramdajs.com/) at some point to help explain some things. I don't plan to turn this in to a quasi-functional library project. I may also bring in some popular libraries to demonstate currying, composition and other functional concepts. One major point of confusion that I see out there is the misconception that you can't include a 3rd party function in your pipeline. Well, you can and you should when it makes sense. 
+There are no dependencies as of now. I may introduce <a href='https://ramdajs.com/'>Ramda</a> at some point to help explain some things. I don't plan to turn this in to a quasi-functional library project. I may also bring in some popular libraries to demonstate currying, composition and other functional concepts. One major point of confusion that I see out there is the misconception that you can't include a 3rd party function in your pipeline. Well, you can and you should when it makes sense. 
 </p>
 
 <p>

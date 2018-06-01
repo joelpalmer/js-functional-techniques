@@ -1,0 +1,11 @@
+{
+  "name": "functional-techniques",
+  "version": "1.0.0",
+  "description": "The Why & the When to use functional techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Palmer",
+  "license": "ISC"
+}

@@ -16,7 +16,7 @@ For now, it is a brain dump.
 I will provide the occasional tests. I don't plan to clutter things up with a bunch of console logs. So, I recommend something like <a href='https://quokkajs.com/' target='_blank'>Quokka</a> which is currently available for VS Code, Atom and WebStorm. Other than that, all you need is node. 
 </p>
 <p>
-Only one dependency as of now. I have introduced <a href='https://ramdajs.com/' target='_blank'>Ramda</a> to help explain some things. I don't plan to turn this in to a quasi-functional library project. I may also bring in some other libraries to demonstate other functional concepts.
+Only one dependency as of now. I have introduced <a href='https://ramdajs.com/' target='_blank'>Ramda</a> to help explain some things. In fact, this is turning in to a deep dive in to Ramda. I don't plan to turn this in to a quasi-functional library project. I may also bring in some other libraries to demonstate other functional concepts.
 </p>
 
 <p>

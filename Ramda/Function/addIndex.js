@@ -19,7 +19,7 @@ const addIndex = _curry1(function addIndex(fn) {
   return curryN(fn.length, function() {
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length
     let idx = 0;
-    const origFn = arguments[0];
+    const origFn = arguments[0];  
     const list = arguments[arguments.length - 1];
     const args = Array.prototype.slice.call(arguments, 0);
     args[0] = function() {
